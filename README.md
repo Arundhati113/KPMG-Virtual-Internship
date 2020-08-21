@@ -1,3 +1,3 @@
-# KPMG-Virtual-Internship
-Customer Analysis for targeted marketing
+# KPMG-Virtual-Internship 
+
 Data Analytics Virtual Internship
